@@ -58,3 +58,5 @@ python bot.py
 Заказчик: https://hh.ru/employer/4732028
 
 Вакансия: https://hh.ru/vacancy/96897772
+
+ТЗ: https://docs.google.com/document/d/14DcCb6Pj3PNsFqJzaS_hAhyePqRXF6uvmTzobp_G8PM/edit
