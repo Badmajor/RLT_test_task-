@@ -85,4 +85,4 @@ async def build_answer(request: str) -> str:
     except (SyntaxError, ValueError):
         return "Не верный тип данных"
     result = await get_aggregate_data(request)
-    return str(result)
+    return str(result).replace("'", '"')
